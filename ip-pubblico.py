@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+#Prova branch Agosto 2016
 import urllib.request,smtplib,time
 
 # Tempo di attesa in secondi tra due controlli
