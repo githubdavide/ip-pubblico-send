@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+#Questo script oggi è stato modificato per delle prove
 import urllib.request,smtplib,time
 
 # Tempo di attesa in secondi tra due controlli
